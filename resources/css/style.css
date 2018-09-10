@@ -1,0 +1,43 @@
+body {
+  font-family: Verdana, sans serif;
+  text-align: center;
+  background-color: black;
+}
+
+h1,h2 {
+  color: white;
+}
+
+h1  {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+h2  {
+  font-weight: 300;
+  font-size: 42px
+}
+
+p   {
+  font-size: 21px;
+  color: gray;
+}
+
+video {
+  object-fit: contain;
+}
+
+.download   {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.footer {
+  text-align: right;
+  color: gray;
+}
+
+.logo {
+  width: 64px;
+  height: 108px;
+}
